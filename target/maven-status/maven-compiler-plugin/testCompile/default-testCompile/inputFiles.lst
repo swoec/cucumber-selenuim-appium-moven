@@ -1,0 +1,5 @@
+/home/alex/workspace/selenium-cucumber-java-maven-example/src/test/java/info/seleniumcucumber/userStepDefintions/BaseTest.java
+/home/alex/workspace/selenium-cucumber-java-maven-example/src/test/java/env/DriverUtil.java
+/home/alex/workspace/selenium-cucumber-java-maven-example/src/test/java/env/RunCukeTest.java
+/home/alex/workspace/selenium-cucumber-java-maven-example/src/test/java/env/Hooks.java
+/home/alex/workspace/selenium-cucumber-java-maven-example/src/test/java/info/seleniumcucumber/userStepDefintions/UserStepDefinitions.java
